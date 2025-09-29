@@ -1,1 +1,1 @@
-# AI-for-Medical-Science-with-Python
+# AI-for-Medical-Specialization
